@@ -1,0 +1,16 @@
+.footer{
+    background: url( ../img/bg.jpg ) ;
+    padding: 4rem;
+    margin: 0 auto;
+    text-align: center;
+    color: beige;
+}
+
+@media screen and (max-width: 480px) {
+    .footer{
+        width: auto;
+        height: 110% ;
+        margin: 3rem auto;
+    }
+
+}
